@@ -1,0 +1,135 @@
+body {
+  margin: 60;
+  color: #40514e;
+  text-align: center;
+  background-color: #deedf0;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  margin: 50px auto 0;
+  font-size: 400%;
+  line-height: 2.5;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+  padding-bottom: 10px;
+  font-weight: normal;
+}
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999E;
+}
+a {
+  color: #11999E;
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6;
+}
+.pro {
+  text-decoration: underline;
+}
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 40px;
+}
+.mountain {
+  margin: 2%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 500px;
+}
+.skill-row {
+  margin: 10% auto 10% auto;
+  width: 50%;
+  text-align: left;
+}
+p {
+    line-height: 2
+}
+hr {
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.coding {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.health{
+  float:right;
+  margin-left: 30px;
+}
+
+.Sourdough {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.BUTTON_WJX {
+   	box-shadow: 0px 10px 14px -7px #276873;
+  	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+  	background-color:#599bb3;
+  	border-radius:8px;
+  	display:inline-block;
+	  cursor:pointer;
+  	color:#ffffff;
+    font-family: "Montserrat", sans-serif;
+  	font-size:20px;
+  	font-weight:bold;
+  	padding:13px 32px;
+  	text-decoration:none;
+  	text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.contact-me {
+  width: 40%
+  margin: 40px auto 60px;
+}
+
+.middle-container {
+  margin: 30px 0;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.contact-me {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0 20px;
+}
